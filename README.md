@@ -47,4 +47,5 @@ Contribuições são bem-vindas! Se você encontrar um problema ou tiver alguma 
 
 Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://github.com/ https://github.com/ppelino//Dash_seguranca/LICENSE).
+Este projeto está licenciado sob a [Licença MIT](https://github.com/ppelino/Dash_seguranca/blob/main/LICENSE).
+
